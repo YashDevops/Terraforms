@@ -1,0 +1,6 @@
+AWS_ACCESS_KEY="AKIAJQEB5RRCKU4CNOFQ"
+AWS_SECRET_KEY="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"
+AWS_REGION="us-east-2"
+PATH_TO_PUBLIC_KEY="mykey.pub"
+PATH_TO_PRIVATE_KEY="mykey"
+username="ubuntu"
