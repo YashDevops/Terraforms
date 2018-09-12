@@ -1,0 +1,4 @@
+AWS_ACCESS_KEY="AKIAIAL5ST3NZQI64Q7A"
+AWS_SECRET_KEY="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"
+AWS_REGION="us-east-2"
+PATH_TO_PUBLIC_KEY="/home/yash/awskeys/mykey.pub"
